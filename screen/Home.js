@@ -64,7 +64,6 @@ export default function Home() {
         <Image
           source={require('../img/image 5.png')}
           resizeMode="cover"
-          style={{ width: '100%' }}
         />
       </View>
       {/* vedio course */}
